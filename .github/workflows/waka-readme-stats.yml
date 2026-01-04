@@ -24,4 +24,5 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
           IGNORED_REPOS: "waka-readme-stats"
+          SHOW_OS: "False"
 
