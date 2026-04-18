@@ -47,6 +47,38 @@ I'm passionate about distributed systems, databases, DevOps and cloud computing.
 ### GitHub Stats:
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 04/17/2026 UTC
+```text
+🌞 Morning                204 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌆 Daytime                421 commits         █████████████░░░░░░░░░░░░   51.59 % 
+🌃 Evening                151 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Tuesday                  152 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Wednesday                81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Thursday                 168 commits         █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Friday                   162 commits         █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Saturday                 61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Sunday                   78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JSON                     2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   44.72 % 
+Python                   2 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   38.47 % 
+Text                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+INI                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+```
+
+
+ Last Updated on 04/18/2026 UTC
 <!--END_SECTION:waka-->
