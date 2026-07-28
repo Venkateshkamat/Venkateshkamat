@@ -28,4 +28,6 @@ jobs:
           IGNORED_REPOS: "waka-readme-stats"
           SHOW_OS: "False"
           UPDATED_DATE_FORMAT: "%m/%d/%Y"
+          SHOW_AI_CODING: "False"
+          SHOW_AI_CODING_TIME: "False"
 
